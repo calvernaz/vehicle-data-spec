@@ -1,4 +1,4 @@
-# Vehicle Data Spec
+# Vehicle Data Specification
 
 This specification defines a standard for Vehicle Data which might be available in a vehicle. It is designed to be used in conjunction with the Vehicle API Specification.
 
