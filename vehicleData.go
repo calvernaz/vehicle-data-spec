@@ -1,23 +1,8 @@
-package gofakeit
+package vehicledata
 
 import "time"
 import (
-	"github.com/calvernaz/w3c-vehicle-data/types/transmission-gear"
-	"github.com/calvernaz/w3c-vehicle-data/types/vehicle-type"
 	"github.com/calvernaz/w3c-vehicle-data/types/zone"
-	"github.com/calvernaz/w3c-vehicle-data/types/transmission-mode"
-	"github.com/calvernaz/w3c-vehicle-data/types/fuel-type"
-	"github.com/calvernaz/w3c-vehicle-data/types/parking-brake-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/alarm-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/lane-departure-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/convertible-root-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/wiper-control"
-	"github.com/calvernaz/w3c-vehicle-data/types/identification-type"
-	"github.com/calvernaz/w3c-vehicle-data/types/door-open-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/driver-mode"
-	"github.com/calvernaz/w3c-vehicle-data/types/button-event"
-	"github.com/calvernaz/w3c-vehicle-data/types/occupant-status"
-	"github.com/calvernaz/w3c-vehicle-data/types/airflow-direction"
 )
 
 // Vehicle Data
